@@ -22,7 +22,7 @@ https://github.com/go-acoustic/Connect-SP.
 | Pod | Product |
 |---|---|
 | AcousticConnect, AcousticConnectDebug | Acoustic Connect iOS SDK |
-| AcousticMobilePush, AcousticMobilePushNotification, AcousticMobilePushWatch and their Debug variants | Acoustic Campaign mobile push SDK |
+| AcousticMobilePush, AcousticMobilePushNotification and their Debug variants | Acoustic Campaign mobile push SDK |
 
 Specs are written by CI only. Do not edit by hand.
 
